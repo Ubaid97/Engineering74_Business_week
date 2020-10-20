@@ -13,7 +13,7 @@ cat id_rsa.pub
 - paste the public key on your github in settings GPH SSH key option in 
 your profile menu and create key
 
-###Repos
+### Repos
 - go back to your terminal after creating key
 - go to the folder in which you want to initialise your repository
 - initialise repo using:
@@ -49,3 +49,36 @@ git commit -m "msg" // commit the changes
 git push -u origin main // push to origin
 ```
 - go back to github repo to verify the changes and connections
+
+
+## Business skills
+### Time and Tasks management
+- Time management is "the range of skills, tools and techniques utilised 
+to accomplish specific tasks, projects and goals"
+- Task management is "the process of managing a task during its 
+lifecycle, including planning, tracking and reporting"
+- some T&T management tools include: Outlook calendar, Trello, a diary 
+planner etc. Effectively anything that allows you to organise how time 
+is distributed across tasks
+- Pareto principle: 80% of the consequences come 20% of the causes. Not 
+all features have the same impact on the final product so it's important 
+to prioritise
+- Eisenhower principle: prioritise tasks based on whether they're 
+important and/or urgent
+```
+1. Important and Urgent - Do immediately
+2. Important but not Urgent - Decide the appropriate time to do
+3. Urgent but not Important - Delegate to someone else if possible
+4. Neither Important nor Urgent - Delete from plans (waste of time)
+```
+- how to prioritise tasks:
+```
+- Necessary things are urgent and important
+- Quality is important but not urgent
+- Deception is urgent but not important
+- Waste is neither
+- use Two minutes rule
+```
+
+### Communication
+
