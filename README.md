@@ -81,4 +81,23 @@ important and/or urgent
 ```
 
 ### Communication
-
+- communication is essential to the functioning of a business. Problems 
+in communication can lead to:
+```
+- potential loss of bussiness (clients, projects etc.)
+- discord and conflict between members of the organisation
+- lack of coordination resulting in an unsuccessful project
+```
+- it's important to listen to others and be open to criticism
+ also important to be constructive in one's criticism and not simply 
+negative
+- we all have cognitive biases which can hinder our ability to make 
+well-informed, objective judgments. some examples:
+```
+- Anchoring
+- Confirmation bias
+- Wheelbarrow bias
+- Authority bias
+```
+- to minimise the influence of cognitive biases, we should seek to be 
+self-aware so that we can detect faulty assumptions in our reasoning
