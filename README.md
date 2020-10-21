@@ -96,8 +96,39 @@ well-informed, objective judgments. some examples:
 ```
 - Anchoring
 - Confirmation bias
-- Wheelbarrow bias
+- Bandwagon bias
 - Authority bias
 ```
 - to minimise the influence of cognitive biases, we should seek to be 
 self-aware so that we can detect faulty assumptions in our reasoning
+- 6 coloured hats:
+```
+- White hat: focus on the relevant factual information
+- Yellow hat: think optimistically, looking at the benefits/positives
+- Black hat: think critically, looking for risks and problems
+- Red hat: express intuitions and feelings you have about the issue
+- Green hat: think creatively, outside the box, for different 
+possibilities and ideas
+- Blue hat: ensure that the guidelines for the 6 hats are followed in a 
+well-balanced manner
+```
+### Dealing with conflict
+- conflict occurs when opposing viewpoints clash. This can lead to 
+problems unless effectievly handled.
+- it's important that each side of the conflict makes an effort to 
+understand the disagreement and the opposing viewpoint
+- communication is key. Ask others for their perspective to help you 
+understand why they disagree. Listen well and attentively
+- be willing to compromise in order to reach common ground and reconcile
+- conflict often occurs as a result of different personalities
+- some personality traits to keep in mind:
+```
+- Extroverts
+- Introverts
+- Supporter
+- Director
+- Analytical
+```
+- understanding the personality of individuals in important for 
+understanding why the think/behave the way they do, and decide how best 
+to approach them
